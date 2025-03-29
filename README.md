@@ -2,6 +2,14 @@ About Company: https://ezfn-242397532.hubspotpagebuilder.net/galaxy-dev
 
 Hello, I am Galaxy Developer Im A proud Owner for What I do
 
-I know how to code
+I know how to code:
 
-https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png
+C++
+C#
+JavaScript
+php
+HTML
+CSS
+Python 3.11 / 3.14
+
+And I know How to do Exploits
