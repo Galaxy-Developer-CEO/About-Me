@@ -11,5 +11,6 @@ php
 HTML
 CSS
 Python 3.11 / 3.14
+Node.Js
 
 And I know How to do Exploits
